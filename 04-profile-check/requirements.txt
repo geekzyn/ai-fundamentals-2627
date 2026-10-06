@@ -1,0 +1,12 @@
+# AI Fundamentals, Profile check
+# Install, inside this folder:
+#   uv venv --python 3.14
+#   uv pip install -r requirements.txt --torch-backend=cpu
+
+ipykernel
+pandas
+pydantic
+gradio>=6
+ollama
+torch
+transformers>=5

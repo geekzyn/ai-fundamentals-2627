@@ -1,0 +1,14 @@
+# AI Fundamentals, Teach your webcam
+# Install, inside this folder:
+#   uv venv --python 3.14
+#   uv pip install -r requirements.txt --torch-backend=cpu
+
+ipykernel
+numpy
+matplotlib
+scikit-learn
+opencv-python>=5
+pillow
+gradio>=6
+torch
+transformers>=5

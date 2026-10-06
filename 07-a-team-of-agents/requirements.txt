@@ -1,0 +1,9 @@
+# AI Fundamentals, A team of agents
+# Install, inside this folder:
+#   uv venv --python 3.14
+#   uv pip install -r requirements.txt
+
+ipykernel
+pydantic
+gradio>=6
+ollama

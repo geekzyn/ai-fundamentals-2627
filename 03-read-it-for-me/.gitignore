@@ -1,0 +1,17 @@
+# Python environments
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets, never commit these
+.env
+*.key
+
+# Notebooks and apps
+.ipynb_checkpoints/
+.gradio/
+
+# Editors and operating systems
+.idea/
+.DS_Store
+Thumbs.db
